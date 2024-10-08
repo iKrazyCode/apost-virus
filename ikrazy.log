@@ -1,0 +1,151 @@
+2024-10-08 06:36:15,780 -> :::::::::: Iniciando script-path:c:/Users/dodoc/PycharmProjects/blaze-crash1/main.py ::
+2024-10-08 06:37:39,576 -> :::::::::: Iniciando script-path:c:/Users/dodoc/PycharmProjects/blaze-crash1/main.py ::
+2024-10-08 06:37:42,843 -> [*] Fazendo login...
+2024-10-08 06:38:08,986 -> [*] A página não se encontra em manutenção.
+2024-10-08 06:38:12,883 -> [*] Login feito...
+2024-10-08 06:38:14,038 -> [*] Iniciando jogo
+2024-10-08 06:38:14,142 -> [*] Saldo atual $R$ 0,13
+2024-10-08 06:38:14,143 -> [*] Esperando 10 velas - abaixo de:  2.5X
+2024-10-08 06:38:15,121 -> 18.09
+2024-10-08 06:39:03,475 -> 10.22
+2024-10-08 06:39:54,982 -> 10.08
+2024-10-08 06:40:06,226 -> 1.07
+2024-10-08 06:40:33,811 -> 2.89
+2024-10-08 06:41:29,382 -> 15.59
+2024-10-08 06:42:43,559 -> :::::::::: Iniciando script-path:c:/Users/dodoc/PycharmProjects/blaze-crash1/main.py ::
+2024-10-08 06:42:45,854 -> [*] Fazendo login...
+2024-10-08 06:43:21,218 -> [*] A página não se encontra em manutenção.
+2024-10-08 06:43:24,785 -> [*] Login feito...
+2024-10-08 06:43:36,815 -> [*] Iniciando jogo
+2024-10-08 06:43:36,820 -> [*] Saldo atual $False
+2024-10-08 06:43:36,821 -> [*] Esperando 10 velas - abaixo de:  2.0X
+2024-10-08 06:43:36,823 -> [ ! ] Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6312EB645+29573]
+	(No symbol) [0x00007FF631260470]
+	(No symbol) [0x00007FF63111B6EA]
+	(No symbol) [0x00007FF6310EFCD5]
+	(No symbol) [0x00007FF63119EF67]
+	(No symbol) [0x00007FF6311B7FC1]
+	(No symbol) [0x00007FF6311970A3]
+	(No symbol) [0x00007FF6311612DF]
+	(No symbol) [0x00007FF631162441]
+	GetHandleVerifier [0x00007FF63161C58D+3375821]
+	GetHandleVerifier [0x00007FF631667987+3684039]
+	GetHandleVerifier [0x00007FF63165CDAB+3640043]
+	GetHandleVerifier [0x00007FF6313AB7C6+816390]
+	(No symbol) [0x00007FF63126B77F]
+	(No symbol) [0x00007FF6312675A4]
+	(No symbol) [0x00007FF631267740]
+	(No symbol) [0x00007FF63125659F]
+	BaseThreadInitThunk [0x00007FFC0A72257D+29]
+	RtlUserThreadStart [0x00007FFC0BA6AF08+40]
+
+2024-10-08 06:46:23,962 -> :::::::::: Iniciando script-path:c:/Users/dodoc/PycharmProjects/blaze-crash1/main.py ::
+2024-10-08 06:46:26,250 -> [*] Fazendo login...
+2024-10-08 06:46:27,906 -> [ ! ] Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6312EB645+29573]
+	(No symbol) [0x00007FF631260470]
+	(No symbol) [0x00007FF63111B6EA]
+	(No symbol) [0x00007FF6310EFCD5]
+	(No symbol) [0x00007FF63119EF67]
+	(No symbol) [0x00007FF6311B7FC1]
+	(No symbol) [0x00007FF6311970A3]
+	(No symbol) [0x00007FF6311612DF]
+	(No symbol) [0x00007FF631162441]
+	GetHandleVerifier [0x00007FF63161C58D+3375821]
+	GetHandleVerifier [0x00007FF631667987+3684039]
+	GetHandleVerifier [0x00007FF63165CDAB+3640043]
+	GetHandleVerifier [0x00007FF6313AB7C6+816390]
+	(No symbol) [0x00007FF63126B77F]
+	(No symbol) [0x00007FF6312675A4]
+	(No symbol) [0x00007FF631267740]
+	(No symbol) [0x00007FF63125659F]
+	BaseThreadInitThunk [0x00007FFC0A72257D+29]
+	RtlUserThreadStart [0x00007FFC0BA6AF08+40]
+
+2024-10-08 06:46:30,487 -> -------------------{x} Sessao do driver fechada.
+2024-10-08 06:46:37,207 -> :::::::::: Iniciando script-path:c:/Users/dodoc/PycharmProjects/blaze-crash1/main.py ::
+2024-10-08 06:46:39,573 -> [*] Fazendo login...
+2024-10-08 06:46:45,349 -> [ ! ] Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6312EB645+29573]
+	(No symbol) [0x00007FF631260470]
+	(No symbol) [0x00007FF63111B6EA]
+	(No symbol) [0x00007FF6310EFCD5]
+	(No symbol) [0x00007FF63119EF67]
+	(No symbol) [0x00007FF6311B7FC1]
+	(No symbol) [0x00007FF6311970A3]
+	(No symbol) [0x00007FF6311612DF]
+	(No symbol) [0x00007FF631162441]
+	GetHandleVerifier [0x00007FF63161C58D+3375821]
+	GetHandleVerifier [0x00007FF631667987+3684039]
+	GetHandleVerifier [0x00007FF63165CDAB+3640043]
+	GetHandleVerifier [0x00007FF6313AB7C6+816390]
+	(No symbol) [0x00007FF63126B77F]
+	(No symbol) [0x00007FF6312675A4]
+	(No symbol) [0x00007FF631267740]
+	(No symbol) [0x00007FF63125659F]
+	BaseThreadInitThunk [0x00007FFC0A72257D+29]
+	RtlUserThreadStart [0x00007FFC0BA6AF08+40]
+
+2024-10-08 06:46:47,917 -> -------------------{x} Sessao do driver fechada.
+2024-10-08 06:46:59,911 -> :::::::::: Iniciando script-path:c:/Users/dodoc/PycharmProjects/blaze-crash1/main.py ::
+2024-10-08 06:47:02,128 -> [*] Fazendo login...
+2024-10-08 06:47:32,272 -> [*] A página não se encontra em manutenção.
+2024-10-08 06:47:35,861 -> [*] Login feito...
+2024-10-08 06:47:36,038 -> [*] Iniciando jogo
+2024-10-08 06:47:36,094 -> [*] Saldo atual $R$ 0,13
+2024-10-08 06:47:36,094 -> [*] Esperando 1 vela - abaixo de:  2.0X
+2024-10-08 06:47:39,869 -> 5.38
+2024-10-08 06:48:07,608 -> 2.89
+2024-10-08 06:48:27,246 -> 1.77
+2024-10-08 06:48:29,746 ->    Apostando: $0.1 - na vela 1.5
+2024-10-08 06:49:50,862 -> [ ! ] could not convert string to float: ''
+2024-10-08 06:49:53,964 -> -------------------{x} Sessao do driver fechada.
+2024-10-08 06:51:06,742 -> :::::::::: Iniciando script-path:c:/Users/dodoc/PycharmProjects/blaze-crash1/main.py ::
+2024-10-08 06:51:09,171 -> [*] Fazendo login...
+2024-10-08 06:51:46,124 -> [*] A página não se encontra em manutenção.
+2024-10-08 06:51:50,084 -> [*] Login feito...
+2024-10-08 06:51:50,231 -> [*] Iniciando jogo
+2024-10-08 06:51:50,272 -> [*] Saldo atual $R$ 0,13
+2024-10-08 06:51:50,274 -> [*] Esperando 1 vela - abaixo de:  2.0X
+2024-10-08 06:52:09,018 -> 1.84
+2024-10-08 06:52:11,295 ->    Apostando: $0.1 - na vela 1.5
+2024-10-08 06:52:28,874 -> 1.8
+2024-10-08 06:52:28,874 -> [-]      - Ganhou.
+2024-10-08 06:52:28,894 -> [*] Saldo atual $R$ 0,13
+2024-10-08 06:52:28,894 -> [*] Esperando 1 vela - abaixo de:  2.0X
+2024-10-08 06:52:40,278 -> 1.08
+2024-10-08 06:52:43,298 ->    Apostando: $0.1 - na vela 1.5
+2024-10-08 06:52:50,866 -> [ ! ] Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6312EB645+29573]
+	(No symbol) [0x00007FF631260470]
+	(No symbol) [0x00007FF63111B6EA]
+	(No symbol) [0x00007FF6310EFCD5]
+	(No symbol) [0x00007FF63119EF67]
+	(No symbol) [0x00007FF6311B7FC1]
+	(No symbol) [0x00007FF6311970A3]
+	(No symbol) [0x00007FF6311612DF]
+	(No symbol) [0x00007FF631162441]
+	GetHandleVerifier [0x00007FF63161C58D+3375821]
+	GetHandleVerifier [0x00007FF631667987+3684039]
+	GetHandleVerifier [0x00007FF63165CDAB+3640043]
+	GetHandleVerifier [0x00007FF6313AB7C6+816390]
+	(No symbol) [0x00007FF63126B77F]
+	(No symbol) [0x00007FF6312675A4]
+	(No symbol) [0x00007FF631267740]
+	(No symbol) [0x00007FF63125659F]
+	BaseThreadInitThunk [0x00007FFC0A72257D+29]
+	RtlUserThreadStart [0x00007FFC0BA6AF08+40]
+
